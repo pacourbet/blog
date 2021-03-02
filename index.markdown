@@ -5,6 +5,6 @@
 layout: landing
 ---
 
-# Test 
+# Home
 
 This is home page
