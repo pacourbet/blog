@@ -82,7 +82,7 @@ Si je veux $$n$$ cases je dois réaliser $$Log_2(n)$$ opérations. La croissance
 
 Avec nos processerus actuels, l’efficacité du second algorithme ne se verra qu’à partir d’un $$n$$ suffisamment élevé.
 
-<img src="/assets/images/posts/vitesseAlgorithme/increase.png" alt="increase comparison">
+<img src="{{site.baseurl}}/assets/images/posts/vitesseAlgorithme/increase.png" alt="increase comparison">
 
 # Conclusion
 
