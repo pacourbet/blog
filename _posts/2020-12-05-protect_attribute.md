@@ -5,10 +5,9 @@ date:   2020-12-05 15:03:33 +0100
 comment: true
 ---
 
-# Description
-
 Comment protéger les attributs d'une classe ?
 
+<!--more-->
 
 # Protéger un attribut
 

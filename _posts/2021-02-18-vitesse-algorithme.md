@@ -6,8 +6,11 @@ categories: algorithme
 comment: true
 ---
 
+Comment mesurer la vitesse d’un algorithme ?
+
+<!--more-->
+
 **Table des matières**
-- [Description](#description)
 - [Références](#références)
 - [Introduction](#introduction)
 - [Logarithme et notation « O »](#logarithme-et-notation-o)
@@ -18,9 +21,6 @@ comment: true
     - [Seconde approche](#seconde-approche)
 - [Conclusion](#conclusion)
 
-# Description
-
-Comment mesurer la vitesse d’un algorithme ?
 
 # Références
 
