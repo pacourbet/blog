@@ -11,7 +11,7 @@ Comment protéger les attributs d'une classe ?
 
 # Protéger un attribut
 
-Immaginons qu'on ait une classe `Rectangle`
+Imaginons qu'on ait une classe `Rectangle`
 
 ```python
 class Rectangle:
