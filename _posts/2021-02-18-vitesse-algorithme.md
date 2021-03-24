@@ -25,7 +25,10 @@ Comment mesurer la vitesse d’un algorithme ?
 # Références
 
 **grokking algorithms** | Aditya Y.Bhargava
-
+ 
+Le lien ci-dessous du livre sur manning.com qui est d'ailleurs une formidable plateforme.
+<br>
+[lien vers la plateforme](https://www.manning.com/books/grokking-algorithms?query=algorithm)
 
 # Introduction
 
