@@ -3,7 +3,7 @@ layout: post
 title:  "Password wifi"
 date:   2021-03-24 12:44:00 +0100
 categories: tips
-comment: true 
+comments: true 
 ---
 
 C'est toujours galère de recopier le code de la box internet.

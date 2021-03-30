@@ -3,7 +3,7 @@ layout: post
 title:  "Config django"
 date:   2021-03-19 20:08:00 +0100
 categories: django
-comment: true 
+comments: true 
 ---
 
 Quand j'ai commencé à utilisé le framework `Django` j'ai trouvé vraiment pas mal de documentation mais j'ai un peu galéré quand j'ai commencé à vouloir mettre en production ma première application. 

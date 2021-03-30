@@ -3,7 +3,7 @@ layout: post
 title:  "Intégrer un plot interactif dans une page html"
 date:   2021-03-10 16:03:33 +0100
 categories: viz
-comment: true
+comments: true
 ---
 
 Comment intégrer des graphes interactifs avec plotly dans une page html

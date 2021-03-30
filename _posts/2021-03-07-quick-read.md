@@ -3,7 +3,7 @@ layout: post
 title:  "Quick read"
 date:   2021-03-07 14:00:00 +0100
 categories: tips
-comment: true 
+comments: true 
 ---
 
 J'ai souvent besoin de lire de gros fichiers de données. Un gros fichier Excel par exemple.

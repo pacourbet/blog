@@ -2,7 +2,7 @@
 layout: post
 title:  "Protéger ses attributs"
 date:   2020-12-05 15:03:33 +0100
-comment: true
+comments: true
 ---
 
 Comment protéger les attributs d'une classe ?
