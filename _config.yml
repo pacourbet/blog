@@ -38,7 +38,7 @@ show_excerpts: true
 
 # Disqus Comments
 disqus: 
-  shortname: pierreandrcourbet
+  shortname: pacourbet
 
 # Exclude from processing.
 # The following items will not be processed, by default.
