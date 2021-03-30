@@ -38,7 +38,7 @@ show_excerpts: true
 
 # Disqus Comments
 disqus: 
-  shortname: pacourbet
+  shortname: pacourbet-github-io-blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
