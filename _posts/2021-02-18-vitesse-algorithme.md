@@ -3,7 +3,7 @@ layout: post
 title:  "Vitesse d'algorithme"
 date:   2021-02-07 16:03:33 +0100
 categories: algorithme
-comment: true
+comments: true
 ---
 
 Comment mesurer la vitesse d’un algorithme ?
