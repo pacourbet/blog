@@ -16,7 +16,7 @@ permalink: /projets/
 
 <br>
 <hr>
-Si vous souhaiter soutenir mes projets vous pouvez faire un don sécurisé via la palteforme PayPal.
+Pour soutenir mes projets vous pouvez faire un don sécurisé via la palteforme PayPal.
 <br>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="FFMWKSTWZXDLA" />
