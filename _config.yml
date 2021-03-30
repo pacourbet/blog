@@ -40,6 +40,9 @@ show_excerpts: true
 disqus: 
   shortname: pacourbet-github-io-blog
 
+# google analytics
+google_analytics: G-5GZTGSWBXN
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
