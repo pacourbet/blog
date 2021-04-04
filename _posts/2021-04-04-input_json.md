@@ -18,4 +18,4 @@ on peut utiliser un fichier d'input `json`
 
 <script src="https://gist.github.com/pacourbet/78bafc285018022ea8ea51a149394d7f.js"></script>
 
-Si on veut modifier le nombre de FPS par exemple ou la position initiale d'un joueur, pas besoin d'ouvrir le code, il suffit de modifier le fichier d'input. On peut aussi imaginer vouloir tester plusieurs configurations. Il suffira alors de préparer plisieurs fichiers d'inputs et importer le bon fichier.
+Si on veut modifier le nombre de FPS par exemple ou la position initiale d'un joueur, pas besoin d'ouvrir le code, il suffit de modifier le fichier d'input. On peut aussi imaginer vouloir tester plusieurs configurations. Il suffira alors de préparer plusieurs fichiers d'inputs et importer le bon fichier.
