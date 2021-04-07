@@ -37,8 +37,8 @@ plugins:
 show_excerpts: true
 
 # Disqus Comments
-disqus: 
-  shortname: pacourbet-github-io-blog
+# disqus: 
+#   shortname: pacourbet-github-io-blog
 
 # google analytics
 google_analytics: G-5GZTGSWBXN
