@@ -40,6 +40,12 @@ show_excerpts: true
 # disqus: 
 #   shortname: pacourbet-github-io-blog
 
+utterance:
+  repo: "pacourbet/pacourbet.github.io/blog"
+  issue-term: "pathname"
+  theme: "github-light"
+  label: "blog-comment"
+
 # google analytics
 google_analytics: G-5GZTGSWBXN
 
