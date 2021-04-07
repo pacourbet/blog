@@ -24,7 +24,7 @@ author: pierre-andre courbet
 
 description: >- # this means to ignore newlines until "baseurl:"
  portfolio
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pacourbet.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pacourbet
 github_username: pacourbet
