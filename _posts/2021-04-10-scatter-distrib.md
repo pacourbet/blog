@@ -172,7 +172,7 @@ df_data["Date"]
 
 # Traitement et statistiques
 
-On a donc des données de 2009 à 2917. Immagninons qu'on veuille passer des vacances en Australie à Darwin et qu'on veuille éviter les pluies. Pour choisir le meilleur mois, on va faire la moyenne des tombées de pluies sur chaque mois pendant ces 18 années de data.
+On a donc des données de 2009 à 2917. Imaginons qu'on veuille passer des vacances en Australie à Darwin et qu'on veuille éviter les pluies. Pour choisir le meilleur mois, on va faire la moyenne des tombées de pluies sur chaque mois pendant ces 18 années de data.
 
 
 ```python
