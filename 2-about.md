@@ -14,3 +14,6 @@ J'aime quand des concepts tout à fait obscurs pour moi deviennent clairs et lim
 les illustrer par des exemples.
 
 Rendre des choses complexes, simples ...
+
+ <a href="https://twitter.com/pacourbet?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pacourbet</a>
+ <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
