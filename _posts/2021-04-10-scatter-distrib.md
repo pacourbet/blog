@@ -153,10 +153,6 @@ df_data.describe()[["MaxTemp", "Rainfall", "Sunshine"]]
 ```python
 df_data["Date"]
 ```
-
-
-
-
     6049      2009-01-01
     6050      2009-01-02
     6052      2009-01-04
